@@ -3,4 +3,4 @@
 
 A C# (CSharp) Windows Forms App project. Just a calculator. My first project in Windows Forms.
 
-Open "Die Buecherei.sln" to see the code. To run the Console App program directly, launch "Die Buecherei.exe" located in "bin/Debug/net6.0". 
+Open "Taschenrechner V2.sln" to see the code. To run the Windows Forms App program directly, launch "Taschenrechner V2.exe" located in "bin/Debug/net6.0-windows". 
