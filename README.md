@@ -1,4 +1,4 @@
-# Taschenrechner-V2
+# Taschenrechner
 **WORK IN PROGRESS**
 
 A C# (CSharp) Windows Forms App project. Just a calculator. My first project in Windows Forms.
