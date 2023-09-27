@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aI5pulgWL2asxDvc2EJtm5BWhe4Izdxyfi1aUgHz/3wA+0/P7t55RlBhPvuyloTuUdqKjOEU6Mt43i5h/Vq/DA==",
+  "dgSpecHash": "xv7RALrA1bvFomiT828sJyVAH8/IYX0+VS93MRfLtpI9rLA0WByAlJ/rKQ9rbRNW2KCp433n8WgSbwjAyc0IZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danie\\Documents\\GitHub\\Taschenrechner V2\\Taschenrechner V2.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\danie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
-    "C:\\Users\\danie\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
-    "C:\\Users\\danie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
-    "C:\\Users\\danie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\danie\\Documents\\GitHub\\Taschenrechner-V2\\Taschenrechner V2.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
